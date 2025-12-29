@@ -21,7 +21,7 @@ This tool doesn't just change your MAC address. It also modifies and deletes var
 
 ## Project Status
 
-⚠️ **Note**: This project was quickly developed and is currently in a testing phase. While it is fully functional, it is not a complete/full featured release. Some features may be missing or need refinement. The same applies to the GUI it was hastily put together and may have some rough edges, but it is fully functional.
+**Note**: This project was quickly developed and is currently in a testing phase. While it is fully functional, it is not a complete/full featured release. Some features may be missing or need refinement. The same applies to the GUI it was hastily put together and may have some rough edges, but it is fully functional.
 
 **Source Code**: I may add the source code to this repository soon, depending on whether I want to reveal my methods or not. I'm leaning towards not sharing it.
 
